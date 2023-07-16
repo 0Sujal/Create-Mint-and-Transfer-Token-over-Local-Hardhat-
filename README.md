@@ -41,7 +41,7 @@ Switch to the "Solidity Compiler" tab located on the right side.
 
 Under the "Compiler Configuration" section, select the appropriate compiler version matching the one used in the MyToken contract.
 
-Click the "Compile MyToken.sol" button to compile the contract.
+Click the "Compile SujalToken.sol" button to compile the contract.
 
 After successful compilation, switch to the "Deploy & Run Transactions" tab.
 
