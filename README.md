@@ -75,4 +75,4 @@ Authors
 Sujal Dua 21BCS5327@cuchd.in
 
 License
-This project is licensed under the Vinay Kumar License - see the LICENSE.md file for details
+This project is licensed under the Sujal Dua License - see the LICENSE.md file for details
